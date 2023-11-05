@@ -1,7 +1,7 @@
 # Proximal Policy Optimization (PPO) for Farama Foundation Highway Environment
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-blue.svg)
 
 This repository contains an implementation of Proximal Policy Optimization (PPO) for the Farama Foundation Highway Environment. PPO is a reinforcement learning algorithm used to train agents to make sequential decisions, and it is applied to solve the specific task of navigating the Farama Foundation Highway Environment.
 
